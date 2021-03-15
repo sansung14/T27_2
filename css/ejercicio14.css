@@ -1,0 +1,28 @@
+.container {
+        display: table;
+        height: 100%;
+        position: absolute;
+        width: 100%;
+        background-image: url("../imagenes/pinguino.jpg");
+  	background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+
+    }
+    .helper {
+        #position: absolute;
+        #top: 50%;
+        display: table-cell;
+        vertical-align: middle;
+    }
+    table {
+        margin: 0 auto;
+        width: 700px;
+        text-align: center;
+        font-weight: bold;
+        background: white;
+    }
+    .color1 {
+    	background: #f2ff82;
+        font-weight: normal;
+    }

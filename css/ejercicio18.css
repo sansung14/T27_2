@@ -1,0 +1,44 @@
+.container{
+    background: rgba(89, 208, 255, 0.863);
+    width: 228px;
+    height: ;
+    border: 3px solid blueviolet;
+    display:block
+}
+.imagen1{
+    background-image: url(../imagenes/f01.png);
+    background-size: contain;
+    height: 18px;
+    width: inherit;
+    background-position: bottom;
+    position: relative;
+}
+.imagen2{
+    background-position: inherit;
+    background-image: url(../imagenes/f02.png);
+    background-repeat: no-repeat;
+    width: inherit;
+    height: 99px;
+    position: relative;
+    margin-top: auto;
+}
+.imagen3{
+    background-image: url(../imagenes/f03.png);
+    background-repeat: repeat-x;
+    width: inherit;
+    height: 70px;
+    position: absolute;
+}
+
+.container2{
+    background: rgba(89, 208, 255, 0.863);
+    width: 700px;
+    height: 300px;
+    border: 3px solid rgb(226, 43, 43);
+    display: inline-table;
+    margin: 20px;
+
+}
+.contenedor {
+    margin-top: 300px;
+}

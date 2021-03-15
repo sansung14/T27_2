@@ -1,0 +1,17 @@
+table{
+    	width: 700px;
+    	text-align: center;
+      color: #4c1515;
+    }
+    .color{
+    	background: #2e9c73;
+    }
+    .color1{
+    	background: #fdc0c0;
+    }
+    .color2{
+    	background: #fcfdc0;
+    }
+    .color3{
+    	background-image: url(../imagenes/imagen_tabla.jpg);
+    }
